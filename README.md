@@ -10,6 +10,7 @@ Programming languages:
 - Rust 🦀🦀🦀
 - Scala
 - Haskell
+- Python 🐍
 - Nix
 
 Gamedev:
